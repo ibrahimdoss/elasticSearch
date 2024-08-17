@@ -1,0 +1,8 @@
+server:
+  port: 9060
+# //elastic search Connection type 2
+#spring:
+#  elasticsearch:
+#    uris: https://localhost:9200
+#    username: elastic
+#    password: Aa123456**
